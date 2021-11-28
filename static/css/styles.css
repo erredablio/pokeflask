@@ -1,0 +1,33 @@
+.header {
+    margin-bottom: 40px;
+}
+
+.type {
+    background-color: red;
+    border-radius: 100px;
+    color: white;
+}
+
+.col-name {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.col-types {
+    margin-right: 5px;
+    border-radius: 10px 25px 10px 25px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.col-stats {
+    border-radius: 10px 25px 10px 25px;
+    margin-bottom: 1px;
+    background-color: red;
+    font-size: 15px
+}
+
+.col-stats-name {
+    font-size: 15px;
+}
